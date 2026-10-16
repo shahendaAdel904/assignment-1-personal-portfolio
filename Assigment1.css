@@ -1,0 +1,200 @@
+.clear-fix {
+    clear: both;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(235, 232, 232);
+}
+
+.profile {
+    margin: auto;
+    width: 80%;
+
+}
+
+.components {
+    background-color: rgb(19, 19, 100);
+    padding: 40px 30px;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+
+}
+
+.components p {
+    color: rgb(145, 194, 214);
+    margin-bottom: 30px;
+}
+
+.components a {
+    color: rgb(232, 229, 229);
+    text-decoration: none;
+    border: 2px solid rgb(127, 178, 200);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(40, 40, 177);
+
+}
+
+.Sections {
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-top: 20px;
+    padding: 30px;
+
+}
+
+.About img {
+    width: 10%;
+    border: 2px solid rgb(137, 136, 136);
+    border-radius: 50%;
+    float: left;
+
+}
+
+.About h2 {
+    color: rgb(19, 19, 100);
+    border-bottom: 2px solid rgb(226, 228, 250);
+    padding-bottom: 20px;
+}
+
+.About p {
+    margin-left: 130px;
+    margin-top: 30px;
+
+}
+
+.About span {
+    color: rgb(30, 30, 134);
+
+}
+
+.About button {
+    margin-left: 10px;
+    padding: 10px;
+    background-color: rgb(40, 40, 177);
+    border-radius: 12px;
+    color: rgb(232, 229, 229);
+}
+
+.icons-box{
+    float: left;
+    width: 25%;
+    padding:0 10px;
+
+}
+.icons {
+    height: 170px;
+    background-color:rgb(223, 240, 252);
+   border: 2px solid rgb(215, 215, 251);
+   border-radius: 10%;
+   padding: 20px;
+
+
+}
+
+
+
+.My-Skills h2 {
+    color: rgb(19, 19, 100);
+    border-bottom: 2px solid rgb(226, 228, 250);
+    padding-bottom: 20px;
+}
+
+.icons h3 {
+    color: rgb(38, 38, 154);
+
+}
+
+.Experience img {
+    width: 10%;
+    border: 2px solid rgb(137, 136, 136);
+    border-radius: 50%;
+    margin-bottom: 10px;
+    margin: 15px 15px;
+}
+
+.Experience h2 {
+    color: rgb(19, 19, 100);
+    border-bottom: 2px solid rgb(226, 228, 250);
+    padding-bottom: 20px;
+
+}
+
+.positions {
+    margin: 15px;
+    border: 2px solid rgb(227, 225, 225);
+    background-color: rgb(223, 240, 252);
+    border-radius: 15px;
+    border-left-width: 5px;
+    border-left-color: rgb(38, 38, 154);
+    color: rgb(38, 38, 154);
+
+
+}
+
+.place {
+    margin-left: 130px;
+
+}
+
+.positions img {
+    width: 8%;
+    border: 2px solid rgb(185, 190, 241);
+    border-radius: 30%;
+    float: left;
+    padding: 10px;
+
+}
+
+.paragraph p {
+    margin-left: 10px;
+    padding: 20px;
+}
+
+.color p {
+    color: rgb(4, 4, 51);
+}
+
+.Contact {
+    background-color: rgb(19, 19, 100);
+}
+
+
+.Contact h2 {
+    color: white;
+    border-bottom: 2px solid rgb(153, 159, 210);
+    padding-bottom: 20px;
+}
+
+.Contact button {
+    margin-left: 10px;
+    padding: 10px;
+    background-color: rgb(40, 40, 177);
+    border-radius: 12px;
+    color: rgb(232, 229, 229);
+
+
+}
+
+.Contact p {
+    color: rgb(232, 229, 229);
+    margin-bottom: 30px;
+}
+
+
+.end span {
+    color: rgb(47, 73, 202);
+}
+
+.end {
+    text-align: center;
+    color: rgb(232, 229, 229);
+    background-color: rgb(8, 8, 65);
+}
